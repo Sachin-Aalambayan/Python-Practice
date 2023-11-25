@@ -1,2 +1,2 @@
 # Python-Practice
-Basic Practices Code
+Basic Python Practices Code
